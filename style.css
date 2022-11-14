@@ -15,11 +15,13 @@ background:linear-gradient(#f4f4ed);
     width: 370px;
     margin: auto;
     border-radius: 2px;
-    background: #f2f2f2;
+    background-color: #c99f5f;
     padding: 15px 15px 20px 20px;
     box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.5);
 }
 #userInput{
+    font-size: 22px;
+    font-weight: bold;
     box-sizing: border-box;
     width: 100%;
     padding: 40px 5px;
@@ -32,11 +34,11 @@ background:linear-gradient(#f4f4ed);
 .btn{
     width: 24%;
     height: 45px;
+    font-weight: bold;
     border-radius: 2px;
-    border: none;
-    outline: none;
     margin-top: 3px;
-    background: whitesmoke;
+    border: none;
+    outline: none;  
 }
 .btnequal{
     width: 100%;
